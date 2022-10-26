@@ -9,11 +9,13 @@ A fun fact about me is that I grew up in a town where my graduating high school 
 
 | Rank | Hobbies       |
 |-----:|---------------|
-|     1|:books: Reading [Bookshelf!](https://bookshelf.website/hollydelisle)|
+|     1|:books: Reading, check out my [Bookshelf!](https://bookshelf.website/hollydelisle)|
 |     2|:sunflower: Growing and cooking my own food|
-|     3|:snowboarder: Snowboarding at [Smuggler's Notch](https://www.smuggs.com/)|
-|     4|:mount_fuji: Hiking all over Vermont|
-|     5|:art: Making Art <img src="https://cloud-fq7l80nav-hack-club-bot.vercel.app/0img_0274.jpg" alt="Art" width="150px" />|
+|     3|:video_game: Playing video games|
+|     4|:snowboarder: Snowboarding at [Smuggler's Notch](https://www.smuggs.com/)|
+|     5|:mount_fuji: Hiking all over Vermont|
+|     6|:art: Making Art <img src="https://cloud-fq7l80nav-hack-club-bot.vercel.app/0img_0274.jpg" alt="Art" width="150px" />|
+|     7|:radio: Music, check out my [Spotify](https://open.spotify.com/user/31axrrgu2dkfdcccxk52intd6p5m?si=f3f556db13364bbf)|
 
 ### :ship: Projects
 
